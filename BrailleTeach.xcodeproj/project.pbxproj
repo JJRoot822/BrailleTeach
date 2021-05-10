@@ -22,6 +22,16 @@
 		1574A5BA2647717E00EC7D4A /* CardDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5B92647717E00EC7D4A /* CardDivider.swift */; };
 		1574A5BD264773CE00EC7D4A /* ModifierCardStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5BC264773CE00EC7D4A /* ModifierCardStyle.swift */; };
 		1574A5C026477AC200EC7D4A /* View+ModifierCardStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5BF26477AC200EC7D4A /* View+ModifierCardStyle.swift */; };
+		1574A5C226478E9100EC7D4A /* ModifierCardButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5C126478E9100EC7D4A /* ModifierCardButtonStyle.swift */; };
+		1574A5C42647903D00EC7D4A /* View+ModifierCardButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5C32647903D00EC7D4A /* View+ModifierCardButtonStyle.swift */; };
+		1574A5C62647927A00EC7D4A /* CardButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5C52647927A00EC7D4A /* CardButtonView.swift */; };
+		1574A5C826491AEA00EC7D4A /* BrailleDotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5C726491AEA00EC7D4A /* BrailleDotView.swift */; };
+		1574A5CB26491B7800EC7D4A /* BrailleCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5CA26491B7800EC7D4A /* BrailleCellView.swift */; };
+		1574A5CD26491B9F00EC7D4A /* EmptyBrailleCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5CC26491B9F00EC7D4A /* EmptyBrailleCellView.swift */; };
+		1574A5CF26491BC200EC7D4A /* FullBrailleCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5CE26491BC200EC7D4A /* FullBrailleCellView.swift */; };
+		1574A5D12649366500EC7D4A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D02649366500EC7D4A /* SettingsView.swift */; };
+		1574A5D3264936DE00EC7D4A /* FlashcardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D2264936DE00EC7D4A /* FlashcardsView.swift */; };
+		1574A5D52649373C00EC7D4A /* LessonsOverviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D42649373C00EC7D4A /* LessonsOverviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +53,16 @@
 		1574A5B92647717E00EC7D4A /* CardDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDivider.swift; sourceTree = "<group>"; };
 		1574A5BC264773CE00EC7D4A /* ModifierCardStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifierCardStyle.swift; sourceTree = "<group>"; };
 		1574A5BF26477AC200EC7D4A /* View+ModifierCardStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ModifierCardStyle.swift"; sourceTree = "<group>"; };
+		1574A5C126478E9100EC7D4A /* ModifierCardButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifierCardButtonStyle.swift; sourceTree = "<group>"; };
+		1574A5C32647903D00EC7D4A /* View+ModifierCardButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+ModifierCardButtonStyle.swift"; sourceTree = "<group>"; };
+		1574A5C52647927A00EC7D4A /* CardButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardButtonView.swift; sourceTree = "<group>"; };
+		1574A5C726491AEA00EC7D4A /* BrailleDotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrailleDotView.swift; sourceTree = "<group>"; };
+		1574A5CA26491B7800EC7D4A /* BrailleCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrailleCellView.swift; sourceTree = "<group>"; };
+		1574A5CC26491B9F00EC7D4A /* EmptyBrailleCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyBrailleCellView.swift; sourceTree = "<group>"; };
+		1574A5CE26491BC200EC7D4A /* FullBrailleCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullBrailleCellView.swift; sourceTree = "<group>"; };
+		1574A5D02649366500EC7D4A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		1574A5D2264936DE00EC7D4A /* FlashcardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsView.swift; sourceTree = "<group>"; };
+		1574A5D42649373C00EC7D4A /* LessonsOverviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsOverviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +95,7 @@
 		1574A5932646A5D200EC7D4A /* BrailleTeach */ = {
 			isa = PBXGroup;
 			children = (
+				1574A5D62649380700EC7D4A /* Tabs */,
 				1574A5B82646A71300EC7D4A /* BrailleTeach.entitlements */,
 				1574A5A82646A64700EC7D4A /* ContentView.swift */,
 				1574A5A92646A64700EC7D4A /* Custom Views */,
@@ -99,6 +120,7 @@
 		1574A5A92646A64700EC7D4A /* Custom Views */ = {
 			isa = PBXGroup;
 			children = (
+				1574A5C926491B0900EC7D4A /* Braille Cell */,
 				1574A5AA2646A64700EC7D4A /* Card */,
 			);
 			path = "Custom Views";
@@ -116,6 +138,7 @@
 				1574A5AF2646A64700EC7D4A /* CardSubheaderView.swift */,
 				1574A5B02646A64700EC7D4A /* CardFooterView.swift */,
 				1574A5B92647717E00EC7D4A /* CardDivider.swift */,
+				1574A5C52647927A00EC7D4A /* CardButtonView.swift */,
 			);
 			path = Card;
 			sourceTree = "<group>";
@@ -124,6 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				1574A5BC264773CE00EC7D4A /* ModifierCardStyle.swift */,
+				1574A5C126478E9100EC7D4A /* ModifierCardButtonStyle.swift */,
 			);
 			path = Modifiers;
 			sourceTree = "<group>";
@@ -132,8 +156,30 @@
 			isa = PBXGroup;
 			children = (
 				1574A5BF26477AC200EC7D4A /* View+ModifierCardStyle.swift */,
+				1574A5C32647903D00EC7D4A /* View+ModifierCardButtonStyle.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		1574A5C926491B0900EC7D4A /* Braille Cell */ = {
+			isa = PBXGroup;
+			children = (
+				1574A5C726491AEA00EC7D4A /* BrailleDotView.swift */,
+				1574A5CA26491B7800EC7D4A /* BrailleCellView.swift */,
+				1574A5CC26491B9F00EC7D4A /* EmptyBrailleCellView.swift */,
+				1574A5CE26491BC200EC7D4A /* FullBrailleCellView.swift */,
+			);
+			path = "Braille Cell";
+			sourceTree = "<group>";
+		};
+		1574A5D62649380700EC7D4A /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				1574A5D02649366500EC7D4A /* SettingsView.swift */,
+				1574A5D2264936DE00EC7D4A /* FlashcardsView.swift */,
+				1574A5D42649373C00EC7D4A /* LessonsOverviewView.swift */,
+			);
+			path = Tabs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -205,15 +251,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1574A5D12649366500EC7D4A /* SettingsView.swift in Sources */,
+				1574A5CD26491B9F00EC7D4A /* EmptyBrailleCellView.swift in Sources */,
+				1574A5C62647927A00EC7D4A /* CardButtonView.swift in Sources */,
+				1574A5D52649373C00EC7D4A /* LessonsOverviewView.swift in Sources */,
 				1574A5B52646A64700EC7D4A /* FooterButtonType.swift in Sources */,
 				1574A5BA2647717E00EC7D4A /* CardDivider.swift in Sources */,
 				1574A5B32646A64700EC7D4A /* CardView.swift in Sources */,
 				1574A5B62646A64700EC7D4A /* CardSubheaderView.swift in Sources */,
+				1574A5CB26491B7800EC7D4A /* BrailleCellView.swift in Sources */,
 				1574A5BD264773CE00EC7D4A /* ModifierCardStyle.swift in Sources */,
 				1574A59E2646A5D300EC7D4A /* Persistence.swift in Sources */,
+				1574A5C226478E9100EC7D4A /* ModifierCardButtonStyle.swift in Sources */,
+				1574A5D3264936DE00EC7D4A /* FlashcardsView.swift in Sources */,
+				1574A5CF26491BC200EC7D4A /* FullBrailleCellView.swift in Sources */,
 				1574A5B12646A64700EC7D4A /* ContentView.swift in Sources */,
 				1574A5A12646A5D300EC7D4A /* BrailleTeach.xcdatamodeld in Sources */,
 				1574A5B42646A64700EC7D4A /* CardHeaderView.swift in Sources */,
+				1574A5C826491AEA00EC7D4A /* BrailleDotView.swift in Sources */,
+				1574A5C42647903D00EC7D4A /* View+ModifierCardButtonStyle.swift in Sources */,
 				1574A5C026477AC200EC7D4A /* View+ModifierCardStyle.swift in Sources */,
 				1574A5B22646A64700EC7D4A /* CardBodyView.swift in Sources */,
 				1574A5952646A5D200EC7D4A /* BrailleTeachApp.swift in Sources */,

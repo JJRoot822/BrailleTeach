@@ -14,22 +14,9 @@ struct CardFooterView<Destination>: View where Destination: View {
     
     var body: some View {
         HStack {
-            NavigationLink("\(text)", destination: destination)
-                .padding(.horizontal, 20)
-                .padding(.vertical, 15)
-                .foregroundColor(.white)
-                .background(getFooterButtonColor(type: type))
-                .clipShape(RoundedRectangle(cornerRadius: 10.0))
-            
+            CardButtonView(type: type, text: text, destination: destination)
             Spacer()
         }
         .padding(.all, 10)
-    }
-    
-    func getFooterButtonColor(type: FooterButtonType) -> Color {
-        switch type {
-        case .primary: return Color(red: 0, green: 0, blue: 1)
-        case.danger:   return Color(red: 0.5, green: 0, blue: 0)
-        }
     }
 }
