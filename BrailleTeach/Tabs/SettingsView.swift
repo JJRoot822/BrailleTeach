@@ -22,7 +22,7 @@ struct SettingsView: View {
     var body: some View {
         NavigationView {
             Form {
-                ColorPicker("LightTheme Braille Dot Color", selection: $lightBrailleDotColor)
+                ColorPicker("Light Theme Braille Dot Color", selection: $lightBrailleDotColor)
                     .padding(.all, 5)
                     .onChange(of: lightBrailleDotColor) { color in
                         saveLightColor(color)
