@@ -32,6 +32,32 @@
 		1574A5D12649366500EC7D4A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D02649366500EC7D4A /* SettingsView.swift */; };
 		1574A5D3264936DE00EC7D4A /* FlashcardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D2264936DE00EC7D4A /* FlashcardsView.swift */; };
 		1574A5D52649373C00EC7D4A /* LessonsOverviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D42649373C00EC7D4A /* LessonsOverviewView.swift */; };
+		1574A5F2264A85D300EC7D4A /* BrailleLetterUView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D8264A85D100EC7D4A /* BrailleLetterUView.swift */; };
+		1574A5F3264A85D300EC7D4A /* BrailleLetterAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5D9264A85D100EC7D4A /* BrailleLetterAView.swift */; };
+		1574A5F4264A85D300EC7D4A /* BrailleLetterWView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5DA264A85D100EC7D4A /* BrailleLetterWView.swift */; };
+		1574A5F5264A85D300EC7D4A /* BrailleLetterNView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5DB264A85D200EC7D4A /* BrailleLetterNView.swift */; };
+		1574A5F6264A85D300EC7D4A /* BrailleLetterRView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5DC264A85D200EC7D4A /* BrailleLetterRView.swift */; };
+		1574A5F7264A85D300EC7D4A /* BrailleLetterQView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5DD264A85D200EC7D4A /* BrailleLetterQView.swift */; };
+		1574A5F8264A85D300EC7D4A /* BrailleLetterKView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5DE264A85D200EC7D4A /* BrailleLetterKView.swift */; };
+		1574A5F9264A85D300EC7D4A /* BrailleLetterDView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5DF264A85D200EC7D4A /* BrailleLetterDView.swift */; };
+		1574A5FA264A85D300EC7D4A /* BrailleLetterYView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E0264A85D200EC7D4A /* BrailleLetterYView.swift */; };
+		1574A5FB264A85D300EC7D4A /* BrailleLetterTView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E1264A85D200EC7D4A /* BrailleLetterTView.swift */; };
+		1574A5FC264A85D300EC7D4A /* BrailleLetterZView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E2264A85D200EC7D4A /* BrailleLetterZView.swift */; };
+		1574A5FD264A85D300EC7D4A /* BrailleLetterOView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E3264A85D200EC7D4A /* BrailleLetterOView.swift */; };
+		1574A5FE264A85D300EC7D4A /* BrailleLetterGView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E4264A85D200EC7D4A /* BrailleLetterGView.swift */; };
+		1574A5FF264A85D300EC7D4A /* BrailleLetterLView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E5264A85D200EC7D4A /* BrailleLetterLView.swift */; };
+		1574A600264A85D300EC7D4A /* BrailleLetterCView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E6264A85D300EC7D4A /* BrailleLetterCView.swift */; };
+		1574A601264A85D300EC7D4A /* BrailleLetterEView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E7264A85D300EC7D4A /* BrailleLetterEView.swift */; };
+		1574A602264A85D300EC7D4A /* BrailleLetterMView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E8264A85D300EC7D4A /* BrailleLetterMView.swift */; };
+		1574A603264A85D300EC7D4A /* BrailleLetterIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5E9264A85D300EC7D4A /* BrailleLetterIView.swift */; };
+		1574A604264A85D300EC7D4A /* BrailleLetterFView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5EA264A85D300EC7D4A /* BrailleLetterFView.swift */; };
+		1574A605264A85D300EC7D4A /* BrailleLetterHView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5EB264A85D300EC7D4A /* BrailleLetterHView.swift */; };
+		1574A606264A85D300EC7D4A /* BrailleLetterPView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5EC264A85D300EC7D4A /* BrailleLetterPView.swift */; };
+		1574A607264A85D300EC7D4A /* BrailleLetterBView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5ED264A85D300EC7D4A /* BrailleLetterBView.swift */; };
+		1574A608264A85D300EC7D4A /* BrailleLetterJView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5EE264A85D300EC7D4A /* BrailleLetterJView.swift */; };
+		1574A609264A85D300EC7D4A /* BrailleLetterVView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5EF264A85D300EC7D4A /* BrailleLetterVView.swift */; };
+		1574A60A264A85D300EC7D4A /* BrailleLetterSView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5F0264A85D300EC7D4A /* BrailleLetterSView.swift */; };
+		1574A60B264A85D300EC7D4A /* BrailleLetterXView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1574A5F1264A85D300EC7D4A /* BrailleLetterXView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +89,32 @@
 		1574A5D02649366500EC7D4A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		1574A5D2264936DE00EC7D4A /* FlashcardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardsView.swift; sourceTree = "<group>"; };
 		1574A5D42649373C00EC7D4A /* LessonsOverviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsOverviewView.swift; sourceTree = "<group>"; };
+		1574A5D8264A85D100EC7D4A /* BrailleLetterUView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterUView.swift; sourceTree = "<group>"; };
+		1574A5D9264A85D100EC7D4A /* BrailleLetterAView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterAView.swift; sourceTree = "<group>"; };
+		1574A5DA264A85D100EC7D4A /* BrailleLetterWView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterWView.swift; sourceTree = "<group>"; };
+		1574A5DB264A85D200EC7D4A /* BrailleLetterNView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterNView.swift; sourceTree = "<group>"; };
+		1574A5DC264A85D200EC7D4A /* BrailleLetterRView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterRView.swift; sourceTree = "<group>"; };
+		1574A5DD264A85D200EC7D4A /* BrailleLetterQView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterQView.swift; sourceTree = "<group>"; };
+		1574A5DE264A85D200EC7D4A /* BrailleLetterKView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterKView.swift; sourceTree = "<group>"; };
+		1574A5DF264A85D200EC7D4A /* BrailleLetterDView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterDView.swift; sourceTree = "<group>"; };
+		1574A5E0264A85D200EC7D4A /* BrailleLetterYView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterYView.swift; sourceTree = "<group>"; };
+		1574A5E1264A85D200EC7D4A /* BrailleLetterTView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterTView.swift; sourceTree = "<group>"; };
+		1574A5E2264A85D200EC7D4A /* BrailleLetterZView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterZView.swift; sourceTree = "<group>"; };
+		1574A5E3264A85D200EC7D4A /* BrailleLetterOView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterOView.swift; sourceTree = "<group>"; };
+		1574A5E4264A85D200EC7D4A /* BrailleLetterGView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterGView.swift; sourceTree = "<group>"; };
+		1574A5E5264A85D200EC7D4A /* BrailleLetterLView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterLView.swift; sourceTree = "<group>"; };
+		1574A5E6264A85D300EC7D4A /* BrailleLetterCView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterCView.swift; sourceTree = "<group>"; };
+		1574A5E7264A85D300EC7D4A /* BrailleLetterEView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterEView.swift; sourceTree = "<group>"; };
+		1574A5E8264A85D300EC7D4A /* BrailleLetterMView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterMView.swift; sourceTree = "<group>"; };
+		1574A5E9264A85D300EC7D4A /* BrailleLetterIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterIView.swift; sourceTree = "<group>"; };
+		1574A5EA264A85D300EC7D4A /* BrailleLetterFView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterFView.swift; sourceTree = "<group>"; };
+		1574A5EB264A85D300EC7D4A /* BrailleLetterHView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterHView.swift; sourceTree = "<group>"; };
+		1574A5EC264A85D300EC7D4A /* BrailleLetterPView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterPView.swift; sourceTree = "<group>"; };
+		1574A5ED264A85D300EC7D4A /* BrailleLetterBView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterBView.swift; sourceTree = "<group>"; };
+		1574A5EE264A85D300EC7D4A /* BrailleLetterJView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterJView.swift; sourceTree = "<group>"; };
+		1574A5EF264A85D300EC7D4A /* BrailleLetterVView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterVView.swift; sourceTree = "<group>"; };
+		1574A5F0264A85D300EC7D4A /* BrailleLetterSView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterSView.swift; sourceTree = "<group>"; };
+		1574A5F1264A85D300EC7D4A /* BrailleLetterXView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrailleLetterXView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +216,7 @@
 		1574A5C926491B0900EC7D4A /* Braille Cell */ = {
 			isa = PBXGroup;
 			children = (
+				1574A5D7264A858D00EC7D4A /* Alphabet */,
 				1574A5C726491AEA00EC7D4A /* BrailleDotView.swift */,
 				1574A5CA26491B7800EC7D4A /* BrailleCellView.swift */,
 				1574A5CC26491B9F00EC7D4A /* EmptyBrailleCellView.swift */,
@@ -180,6 +233,39 @@
 				1574A5D42649373C00EC7D4A /* LessonsOverviewView.swift */,
 			);
 			path = Tabs;
+			sourceTree = "<group>";
+		};
+		1574A5D7264A858D00EC7D4A /* Alphabet */ = {
+			isa = PBXGroup;
+			children = (
+				1574A5D9264A85D100EC7D4A /* BrailleLetterAView.swift */,
+				1574A5ED264A85D300EC7D4A /* BrailleLetterBView.swift */,
+				1574A5E6264A85D300EC7D4A /* BrailleLetterCView.swift */,
+				1574A5DF264A85D200EC7D4A /* BrailleLetterDView.swift */,
+				1574A5E7264A85D300EC7D4A /* BrailleLetterEView.swift */,
+				1574A5EA264A85D300EC7D4A /* BrailleLetterFView.swift */,
+				1574A5E4264A85D200EC7D4A /* BrailleLetterGView.swift */,
+				1574A5EB264A85D300EC7D4A /* BrailleLetterHView.swift */,
+				1574A5E9264A85D300EC7D4A /* BrailleLetterIView.swift */,
+				1574A5EE264A85D300EC7D4A /* BrailleLetterJView.swift */,
+				1574A5DE264A85D200EC7D4A /* BrailleLetterKView.swift */,
+				1574A5E5264A85D200EC7D4A /* BrailleLetterLView.swift */,
+				1574A5E8264A85D300EC7D4A /* BrailleLetterMView.swift */,
+				1574A5DB264A85D200EC7D4A /* BrailleLetterNView.swift */,
+				1574A5E3264A85D200EC7D4A /* BrailleLetterOView.swift */,
+				1574A5EC264A85D300EC7D4A /* BrailleLetterPView.swift */,
+				1574A5DD264A85D200EC7D4A /* BrailleLetterQView.swift */,
+				1574A5DC264A85D200EC7D4A /* BrailleLetterRView.swift */,
+				1574A5F0264A85D300EC7D4A /* BrailleLetterSView.swift */,
+				1574A5E1264A85D200EC7D4A /* BrailleLetterTView.swift */,
+				1574A5D8264A85D100EC7D4A /* BrailleLetterUView.swift */,
+				1574A5EF264A85D300EC7D4A /* BrailleLetterVView.swift */,
+				1574A5DA264A85D100EC7D4A /* BrailleLetterWView.swift */,
+				1574A5F1264A85D300EC7D4A /* BrailleLetterXView.swift */,
+				1574A5E0264A85D200EC7D4A /* BrailleLetterYView.swift */,
+				1574A5E2264A85D200EC7D4A /* BrailleLetterZView.swift */,
+			);
+			path = Alphabet;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -251,29 +337,55 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1574A5F8264A85D300EC7D4A /* BrailleLetterKView.swift in Sources */,
+				1574A608264A85D300EC7D4A /* BrailleLetterJView.swift in Sources */,
 				1574A5D12649366500EC7D4A /* SettingsView.swift in Sources */,
+				1574A603264A85D300EC7D4A /* BrailleLetterIView.swift in Sources */,
+				1574A5FB264A85D300EC7D4A /* BrailleLetterTView.swift in Sources */,
 				1574A5CD26491B9F00EC7D4A /* EmptyBrailleCellView.swift in Sources */,
+				1574A600264A85D300EC7D4A /* BrailleLetterCView.swift in Sources */,
 				1574A5C62647927A00EC7D4A /* CardButtonView.swift in Sources */,
 				1574A5D52649373C00EC7D4A /* LessonsOverviewView.swift in Sources */,
 				1574A5B52646A64700EC7D4A /* FooterButtonType.swift in Sources */,
+				1574A609264A85D300EC7D4A /* BrailleLetterVView.swift in Sources */,
 				1574A5BA2647717E00EC7D4A /* CardDivider.swift in Sources */,
+				1574A5F3264A85D300EC7D4A /* BrailleLetterAView.swift in Sources */,
+				1574A5F9264A85D300EC7D4A /* BrailleLetterDView.swift in Sources */,
+				1574A5F2264A85D300EC7D4A /* BrailleLetterUView.swift in Sources */,
+				1574A607264A85D300EC7D4A /* BrailleLetterBView.swift in Sources */,
 				1574A5B32646A64700EC7D4A /* CardView.swift in Sources */,
 				1574A5B62646A64700EC7D4A /* CardSubheaderView.swift in Sources */,
+				1574A602264A85D300EC7D4A /* BrailleLetterMView.swift in Sources */,
 				1574A5CB26491B7800EC7D4A /* BrailleCellView.swift in Sources */,
 				1574A5BD264773CE00EC7D4A /* ModifierCardStyle.swift in Sources */,
 				1574A59E2646A5D300EC7D4A /* Persistence.swift in Sources */,
 				1574A5C226478E9100EC7D4A /* ModifierCardButtonStyle.swift in Sources */,
 				1574A5D3264936DE00EC7D4A /* FlashcardsView.swift in Sources */,
+				1574A606264A85D300EC7D4A /* BrailleLetterPView.swift in Sources */,
 				1574A5CF26491BC200EC7D4A /* FullBrailleCellView.swift in Sources */,
+				1574A5FA264A85D300EC7D4A /* BrailleLetterYView.swift in Sources */,
+				1574A5FE264A85D300EC7D4A /* BrailleLetterGView.swift in Sources */,
+				1574A60A264A85D300EC7D4A /* BrailleLetterSView.swift in Sources */,
 				1574A5B12646A64700EC7D4A /* ContentView.swift in Sources */,
 				1574A5A12646A5D300EC7D4A /* BrailleTeach.xcdatamodeld in Sources */,
+				1574A5FF264A85D300EC7D4A /* BrailleLetterLView.swift in Sources */,
 				1574A5B42646A64700EC7D4A /* CardHeaderView.swift in Sources */,
 				1574A5C826491AEA00EC7D4A /* BrailleDotView.swift in Sources */,
+				1574A604264A85D300EC7D4A /* BrailleLetterFView.swift in Sources */,
+				1574A5F5264A85D300EC7D4A /* BrailleLetterNView.swift in Sources */,
+				1574A601264A85D300EC7D4A /* BrailleLetterEView.swift in Sources */,
+				1574A5F4264A85D300EC7D4A /* BrailleLetterWView.swift in Sources */,
 				1574A5C42647903D00EC7D4A /* View+ModifierCardButtonStyle.swift in Sources */,
+				1574A5FD264A85D300EC7D4A /* BrailleLetterOView.swift in Sources */,
+				1574A5F6264A85D300EC7D4A /* BrailleLetterRView.swift in Sources */,
+				1574A60B264A85D300EC7D4A /* BrailleLetterXView.swift in Sources */,
 				1574A5C026477AC200EC7D4A /* View+ModifierCardStyle.swift in Sources */,
+				1574A5FC264A85D300EC7D4A /* BrailleLetterZView.swift in Sources */,
 				1574A5B22646A64700EC7D4A /* CardBodyView.swift in Sources */,
 				1574A5952646A5D200EC7D4A /* BrailleTeachApp.swift in Sources */,
 				1574A5B72646A64700EC7D4A /* CardFooterView.swift in Sources */,
+				1574A5F7264A85D300EC7D4A /* BrailleLetterQView.swift in Sources */,
+				1574A605264A85D300EC7D4A /* BrailleLetterHView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,7 +526,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.joshrootdev.BrailleTeach;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 2;
@@ -439,7 +551,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.joshrootdev.BrailleTeach;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 2;

@@ -11,7 +11,7 @@ struct LessonsOverviewView: View {
     var body: some View {
         NavigationView {
             Text("Lessons Overview")
-            .navigationTitle(Text("Lessons"))
+                .navigationTitle(Text("Lessons"))
         }
         .navigationViewStyle(StackNavigationViewStyle())
     }
